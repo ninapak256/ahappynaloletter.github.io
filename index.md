@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I am Nina. 
+I am new to this. 
 
 You can use the [editor on GitHub](https://github.com/ninapak256/ahappynaloletter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
