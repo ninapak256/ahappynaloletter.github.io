@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I am new to this. 
+I am new to this. A Happy Nalo Letter is a space for you and me. 
 
 You can use the [editor on GitHub](https://github.com/ninapak256/ahappynaloletter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
